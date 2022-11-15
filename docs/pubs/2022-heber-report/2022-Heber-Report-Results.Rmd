@@ -21,7 +21,7 @@ editor_options:
 
 ## Landscape Appearance
 
-
+Apparant use was low in June.
 
 ```{r label='Landscape Appearance', echo=FALSE, fig.cap='Average Percent Utilization +- 95% confidence interval using the landscape appearance method at 10 sites before the monsoon (blue) and after the monsoon (yellow) on the Black Mesa Range Distric of the Apache-Sitgreaves National Forest.'}
 
